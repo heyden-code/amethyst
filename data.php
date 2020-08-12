@@ -16,7 +16,7 @@
 
 <h3 style="text-align: center">DATA</h3>
 <br>
-<a class="btn btn-primary mb-3" href="input.php">Tambah Data</a>
+<a class="btn btn-primary mb-3 ml-3" href="input.php">Tambah Data</a>
 
 <table class="table table-hover mr-3 ml-3">
   <thead>
